@@ -24,7 +24,7 @@ Got a great idea? We're all ears for ways to make Goverland better.
 
 ## **Community and Support**
 
-Join our community on Discord to discuss development, share feature ideas, and ask any questions. We're here to help and make Goverland as great as it can be. Don't miss out on the chance to share your success stories or learn how others are using Goverland in innovative ways.
+Join our community on [Discord](https://discord.gg/Zx3bbkeGmY) to discuss development, share feature ideas, and ask any questions. We're here to help and make Goverland as great as it can be. Don't miss out on the chance to share your success stories or learn how others are using Goverland in innovative ways.
 
 ## **Acknowledgments**
 
