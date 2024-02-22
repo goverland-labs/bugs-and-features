@@ -18,6 +18,7 @@ Found a glitch? Let us know! Here's how you can help:
 
 1. **Check Existing Issues:** To avoid duplicates, please browse existing issues first. Feel free to add to existing reports if you have more to share.
 2. **Use the Bug Report Template:** Our template guides you through providing all the necessary details to understand and address the issue efficiently. Every report is directly reviewed by our development team, ensuring your feedback makes an impact.
+3. **Understand Bug Severity:** Before submitting, it might be helpful to familiarize yourself with our [Bug Severity Levels](BUG_SEVERITY_LEVELS.md). This will help you understand the priority of the issue you're reporting.
 
 ### **Suggesting Features ✨**
 
