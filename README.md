@@ -6,6 +6,10 @@
 
 Your feedback is crucial—it helps us identify improvements and shapes the future of DAO governance. Let’s build the best user experience in the DAO space together!
 
+<a href="https://testflight.apple.com/join/RXPCZXIg">
+  <img src="https://github.com/goverland-labs/bugs-and-features/assets/2284385/1f93b802-f593-4f3b-82f4-b90a5d61bca5" width="220" height="75" alt="testflight">
+</a>
+
 ## **How to Contribute**
 
 ### **Reporting Bugs 🐛**
